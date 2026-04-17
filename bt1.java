@@ -24,3 +24,4 @@ public class bt1 {
     }
 }
 // update statement coverage
+// update path coverage
