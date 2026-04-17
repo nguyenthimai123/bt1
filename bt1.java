@@ -23,4 +23,4 @@ public class bt1 {
         }
     }
 }
-// test for statement coverage1
+// test for path coverage
